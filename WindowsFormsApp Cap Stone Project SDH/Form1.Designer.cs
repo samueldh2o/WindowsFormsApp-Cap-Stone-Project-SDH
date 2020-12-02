@@ -92,7 +92,7 @@
             this.lbl_rools.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_rools.Location = new System.Drawing.Point(85, 120);
             this.lbl_rools.Name = "lbl_rools";
-            this.lbl_rools.Size = new System.Drawing.Size(620, 64);
+            this.lbl_rools.Size = new System.Drawing.Size(612, 64);
             this.lbl_rools.TabIndex = 5;
             this.lbl_rools.Text = resources.GetString("lbl_rools.Text");
             this.lbl_rools.Click += new System.EventHandler(this.lbl_rools_Click);
