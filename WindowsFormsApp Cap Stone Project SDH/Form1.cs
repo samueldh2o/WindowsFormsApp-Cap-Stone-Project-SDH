@@ -8,6 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// *************************************************************
+// Application:     Capstone Project
+// Author:          Samuel, Hoekwater, D
+// Description:     An application that has the user guess a random number.
+//
+// Date Created:    11/18/2020
+// Date Revised:    12/02/2020
+// *************************************************************
+
 namespace WindowsFormsApp_Cap_Stone_Project_SDH
 {
     public partial class frm_myNumberGame : Form
