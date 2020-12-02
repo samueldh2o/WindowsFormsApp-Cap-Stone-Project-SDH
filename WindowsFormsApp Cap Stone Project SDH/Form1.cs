@@ -32,7 +32,6 @@ namespace WindowsFormsApp_Cap_Stone_Project_SDH
             Random random = new Random();
             double winingNumber = random.Next(0, 100);
 
-
             double Number;
             double.TryParse(textBox_1.Text, out Number);
 
